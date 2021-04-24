@@ -62,5 +62,17 @@ Pueden ser combinadas estas mobiliarias de forma en que los libros se puedan ext
       <description>Torta de chocolate y Verduras Estas son un par de proyectos realizados en el programa Recap, el cual a travez de multiples imagenes de un objeto, recrea una forma 3D de este, logrando visualizarlo de mejor manera.</description>
     </item>
     
+    <item>
+      <title>Entrega 1 Fusion 360</title>
+      <link>https://tomas-apparcel.github.io/docs/7-entrega-moldes-fusion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tomas-apparcel.github.io/docs/7-entrega-moldes-fusion/</guid>
+      <description>Molde tutorial 1    Analisis con medidas
+      Analisis sección sin fillet
+      Analisis sección
+      Plato sin fillet</description>
+    </item>
+    
   </channel>
 </rss>
