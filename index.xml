@@ -73,5 +73,15 @@ Molde tutorial 1    Analisis con medidas
       Analisis sección sin fillet</description>
     </item>
     
+    <item>
+      <title>Entrega Molde Origami</title>
+      <link>https://tomas-apparcel.github.io/docs/8-entrega-molde-grasshopper/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tomas-apparcel.github.io/docs/8-entrega-molde-grasshopper/</guid>
+      <description>Aqui podemos ver un primer acercamiento a la preparación de alimentos con moldes de origami. En este caso se observa una figura de origami recreada en chocolate.
+Grasshoper Proceso Resultado </description>
+    </item>
+    
   </channel>
 </rss>
